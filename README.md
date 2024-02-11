@@ -1,2 +1,4 @@
 # Rekenmachine
-Een simplistische rekenmachine zonder onnodige functies
+Een simplistische rekenmachine in C zonder onnodige functies
+
+Je kan het bouwen met in principe elke compiler die C naar je platform kan compilen
